@@ -1,0 +1,62 @@
+.outer{
+    min-height: 1000px;
+    border: 1px solid;
+}
+#menu{
+   
+    min-height: 50px;
+    background: white;
+    
+    
+   
+    
+    
+}
+#slider{
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#menu ul li {
+   padding: 2px;
+   margin-right: 20px;
+   color: red;
+   margin-top: 06px;
+}
+#menu ul li a{
+    font-size: 13px;
+    color: #286090;
+    
+}
+#menu ul li a:hover{
+    font-size: 13px;
+    color:lightsalmon;
+}
+#header
+{
+    min-height: 150px;
+    
+    background:#333;
+}
+#parent
+{
+    min-height: 600px;
+   
+    margin-top: 20px;
+}
+#left{
+    min-height: 600px;
+   
+}
+#main
+{
+    min-height: 600px;
+   
+}
+.slider{
+    min-height: 350px;
+    
+    background-image: url('../images/10.jpg');
+ 
+   background-attachment: fixed;
+}
